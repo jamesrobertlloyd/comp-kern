@@ -70,3 +70,5 @@ temp/
 sandpit/
 
 src/.idea/*
+
+src/iterate.dat
