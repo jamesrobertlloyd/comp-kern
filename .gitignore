@@ -69,8 +69,4 @@ posters/jl-tea/tex/*.pdf
 temp/
 sandpit/
 
-
-
-
-
-
+src/.idea/*
